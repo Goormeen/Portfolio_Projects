@@ -2,14 +2,25 @@
 
 ## Data Cleaning and Transformation:
 
-### Columns Removed:
+#### Columns Removed:
+
 1.Description - Long and irrelevant
+
 2.Scraped_at - Irrelevant
+
 3.Url - Irrelevant
+
 4.Sku - Irrelevant
+
 5.Brand - Only one value
+
 6.Currency - Only one value	
+
 7.Product_category - Only one value
+
+#### Additional Transformations:
+
+Changed Type of Promotion Column to Boolean.
 
 Created Revenue Column (Revenue = Product Price * Units sold)
 
@@ -18,10 +29,12 @@ These have been chosen to quickly and succinctly demonstrate the key aspects of 
 
 ### Cards: 
 1.Number of Products
+
 2.Sum of Revenue
 
 ### Stacked Column Charts: 
 1.Average Revenue by Section(gender)
+
 2.Average Revenue by product position
 
 ### Clustered Column Chart:
@@ -82,5 +95,6 @@ Targeted promotions: Focus discounts on underperforming items rather than across
 Category expansion: Develop mid-range performers (shoes, t-shirts) through targeted campaigns, limited editions, and influencer collaborations.
 
 Pricing strategy: Test whether higher jacket prices maintain demand; even a 2–3% increase could yield significant extra revenue without adding volume.
+
 
 
