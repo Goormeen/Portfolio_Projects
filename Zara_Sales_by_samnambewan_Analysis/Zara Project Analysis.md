@@ -4,13 +4,13 @@
 
 #### Columns Removed:
 
-1.Description - Long and irrelevant
+1.Description - Long and irrelevant for analysis
 
-2.Scraped_at - Irrelevant
+2.Scraped_at - Irrelevant for analysis
 
-3.Url - Irrelevant
+3.Url - Irrelevant for analysis
 
-4.Sku - Irrelevant
+4.Sku - Irrelevant for analysis
 
 5.Brand - Only one value
 
@@ -95,6 +95,7 @@ Targeted promotions: Focus discounts on underperforming items rather than across
 Category expansion: Develop mid-range performers (shoes, t-shirts) through targeted campaigns, limited editions, and influencer collaborations.
 
 Pricing strategy: Test whether higher jacket prices maintain demand; even a 2–3% increase could yield significant extra revenue without adding volume.
+
 
 
 
