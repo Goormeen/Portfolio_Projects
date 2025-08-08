@@ -45,9 +45,9 @@ Sum of Revenue by type
 
 ## Business Insights:
 ### 1. Product Performance
-Top Seller: Jackets dominate revenue at €26.58M, accounting for ~68% of total sales — this is a clear hero category.
+Top Seller: Jackets dominate revenue at $26.58M, accounting for ~68% of total sales — this is a clear hero category.
 
-Mid-Tier Sellers: Sweaters (€4.09M), shoes (€3.75M), t-shirts (€3.7M), and jeans (€0.86M) lag far behind jackets.
+Mid-Tier Sellers: Sweaters ($4.09M), shoes ($3.75M), t-shirts ($3.7M), and jeans ($0.86M) lag far behind jackets.
 
 #### Suggestions:
 
@@ -95,6 +95,7 @@ Targeted promotions: Focus discounts on underperforming items rather than across
 Category expansion: Develop mid-range performers (shoes, t-shirts) through targeted campaigns, limited editions, and influencer collaborations.
 
 Pricing strategy: Test whether higher jacket prices maintain demand; even a 2–3% increase could yield significant extra revenue without adding volume.
+
 
 
 
